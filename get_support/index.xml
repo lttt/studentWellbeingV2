@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get support on Student Wellbeing</title>
+    <link>https://lttt.github.io/studentWellbeingv2/get_support/</link>
+    <description>Recent content in Get support on Student Wellbeing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://lttt.github.io/studentWellbeingv2/get_support/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Faculty and staff well-beings</title>
+      <link>https://lttt.github.io/studentWellbeingv2/get_support/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lttt.github.io/studentWellbeingv2/get_support/chapter-2/</guid>
+      <description>Wellness encompasses mental, spiritual, physical, financial, family and workplace health. Discover programs and resources available to support your wellness journey and improve well-being. (Access on UM Intranet with your @umanitoba.ca employee email address.)</description>
+    </item>
+    
+    <item>
+      <title>Student health and wellness</title>
+      <link>https://lttt.github.io/studentWellbeingv2/get_support/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lttt.github.io/studentWellbeingv2/get_support/chapter-1/</guid>
+      <description>Health and wellness play a critical role in student success. Explore a wide range of services that are available to you that support your physical and mental well-being.</description>
+    </item>
+    
+  </channel>
+</rss>
